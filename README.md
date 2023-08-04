@@ -11,7 +11,7 @@
 |August<br>TO<br>to be finished|*****Graduation Project: Mobile Robotics*****|
 
 ## <h3 id="DiaryDirectory"><font color="#a9faff">Directory<font></h3>
-  -   ### <font color="#0996ff">[TitleDirectory](#TitleDirectory)<font>
+  -   ### <font color="#0996ff">[Title Directory](#TitleDirectory)<font>
  - ### <font color="#a9faff">[2023.6](#June,2023)<font>
   - ### <font color="#a9faff">[2023.7](#July,2023)<font>
   - ### <font color="#a9faff">[2023.8](#August,2023)<font>
