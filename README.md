@@ -1,5 +1,5 @@
 # <font color="#fdf730"><center><ins><p style="text-shadow: 0.13em 0.13em 0.0em #8b00ff">*****English IELTS*****</p><ins></center></font><center><img src="yesu.jpg" width="760" height="760"></center>
-> ## <font color="#d0ff34"><h3 id="TitleDirectory">Title Directory<font></h3>
+> ## <h3 id="TitleDirectory"><font color="#d0ff34">Title Directory<font></h3>
 >>### <font color="#0996ff">[DiaryTitle](#Diary)<font><font color="#fdbaff"><font>
 >>### <font color="#0996ff">[Notes](#Notes)<font><font color="#fdbaff"><font>
 ## ***<h3 id="Notes"><font color="#9f88fe"><center><p style="background-color: #ceff00" ><ins>**Notes**<ins></p></center><font></p></h3>***<font color="#fdbaff"><font>
@@ -9,7 +9,6 @@
 | ----------- | ----------- |
 | july3 <br>TO<br>july  | **Diary completion日记补全**. <br><br>. |
 |August<br>TO<br>to be finished|*****Graduation Project: Mobile Robotics*****|
-### <font color="#0996ff">[Title Directory](#TitleDirectory)<font>
 ## <h3 id="DiaryDirectory"><font color="#a9faff">Directory<font></h3>
   - ### <font color="#0996ff">[Title Directory](#TitleDirectory)<font>
  - ### <font color="#a9faff">[2023.6](#June,2023)<font>
