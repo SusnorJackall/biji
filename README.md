@@ -9,7 +9,7 @@
 | ----------- | ----------- |
 | july3 <br>TO<br>july  | **Diary completion日记补全**. <br><br>. |
 |August<br>TO<br>to be finished|*****Graduation Project: Mobile Robotics*****|
-  - ### <font color="#0996ff">[Title Directory](#TitleDirectory)<font>
+### <font color="#0996ff">[Title Directory](#TitleDirectory)<font>
 ## <h3 id="DiaryDirectory"><font color="#a9faff">Directory<font></h3>
   - ### <font color="#0996ff">[Title Directory](#TitleDirectory)<font>
  - ### <font color="#a9faff">[2023.6](#June,2023)<font>
