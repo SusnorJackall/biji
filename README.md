@@ -1,7 +1,9 @@
 # <font color="#fdf730"><center><ins><p style="text-shadow: 0.13em 0.13em 0.0em #8b00ff">*****English IELTS*****</p><ins></center></font><center><img src="yesu.jpg" width="760" height="760"></center>
 > ## <font color="#d0ff34">Directory<font>
 >>### <font color="#0996ff">[DiaryTitle](#Diary)<font><font color="#fdbaff"><font>
+>>### <font color="#0996ff">[Notes](#Notes)<font><font color="#fdbaff"><font>
 ## ***<h3 id="Notes"><font color="#9f88fe"><center><p style="background-color: #ceff00" ><ins>**Notes**<ins></p></center><font></p></h3>***<font color="#fdbaff"><font>
+### <font color="#a9faff"><center>**NOTES ON WORDS**</center><font>
 ## ***<h3 id="Diary"></p><font color="#9f88fe"><center><p style="background-color: #ceff00" ><ins>**Diary**<ins></p></center><font></h3>***<font color="#fdbaff"><font>
 | Time      | Task |
 | ----------- | ----------- |
@@ -40,7 +42,7 @@
     -  ### <font color="#a9faff">[2023.7.18](#July18,2023)<font>
     -  ### <font color="#a9faff">[2023.7.19](#July19,2023)<font>
         -   ### <font color="#0996ff">[DiaryDirectory](#DiaryDirectory)<font>
-### <font color="#a9faff"><center>**Diary Text**</center><font>
+### <font color="#a9faff"><center>**DIARY TEXT**</center><font>
 > <h3 id="June29,2023"><font color="#a9faff">June29,2023<font></h3><font color="#ffffff"><font>
 To day I doing thes text .  
 And **study学习** english **spoken language口语**  
